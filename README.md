@@ -3,6 +3,9 @@
 ## Overview
 This repository contains datasets obtained from Linear Time-Varying (LTV), Nonlinear Model Predictive Control (NMPC), and Koopman-based Model Predictive Control (KMPC) experiments on a scaled car platform.
 
+## Additional experiments
+Due to the filesize additional experiments are uploaded on: https://repozitorij.fer.unizg.hr/islandora/object/fer%3A13341
+
 ## Naming Convention
 The dataset filenames follow a structured naming convention to indicate the specific experiment parameters:
 
